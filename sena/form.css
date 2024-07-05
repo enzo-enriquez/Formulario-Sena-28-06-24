@@ -1,0 +1,53 @@
+body{
+
+    background-image: url(fundo\ pexels.jpg);
+    background-repeat: no-repeat;    
+    background-size: 150%;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.Senha{
+    width: 420px;
+}
+
+label, h1, h3{
+    color: white;
+}
+
+.input-texto{
+    width: 30%;
+    text-align: center;
+    display: inline-block;
+    padding: 2%;
+}
+
+.campo{
+    width: 300px;
+    padding: 5px;
+}
+
+.Registro{
+
+    background-color: rgba(0, 0, 0, 0.5);
+
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    margin-top: 10%;
+    padding: 2%;
+    
+    border:  rgb(100, 100, 100) 2px;
+    border-radius: 5%;
+
+}
+
+.botao{
+    margin-top: 50% 
+
+}
